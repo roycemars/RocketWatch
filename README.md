@@ -1,2 +1,2 @@
 # RocketWatch
-R-Rated stopwatch and timer - built in Kotlin with Jetpack
+R-Rated and Most Wanted stopwatch for professionals 💥⏱⚡️ - built in Kotlin with Jetpack
